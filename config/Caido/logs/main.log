@@ -25,3 +25,43 @@
 [2026-01-07 04:03:29.360] [info]  Unable to detect 'package-type' for autoUpdater
 [2026-01-07 04:03:29.361] [info]  Checking for update
 [2026-01-07 04:03:29.927] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 15:38:36.979] [info]  On Linux, assuming AppImage updater
+[2026-01-07 15:38:36.991] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 15:38:36.992] [info]  Checking for update
+[2026-01-07 15:38:37.623] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 15:40:16.483] [info]  On Linux, assuming AppImage updater
+[2026-01-07 15:40:16.490] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 15:40:16.491] [info]  Checking for update
+[2026-01-07 15:40:16.812] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 15:53:33.963] [info]  On Linux, assuming AppImage updater
+[2026-01-07 15:53:33.977] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 15:53:33.978] [info]  Checking for update
+[2026-01-07 15:53:34.876] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 15:57:01.080] [info]  On Linux, assuming AppImage updater
+[2026-01-07 15:57:01.091] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 15:57:01.091] [info]  Checking for update
+[2026-01-07 15:57:01.374] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 15:57:25.348] [info]  On Linux, assuming AppImage updater
+[2026-01-07 15:57:25.362] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 15:57:25.363] [info]  Checking for update
+[2026-01-07 15:57:25.754] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 16:02:38.507] [info]  On Linux, assuming AppImage updater
+[2026-01-07 16:02:38.515] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 16:02:38.538] [info]  Checking for update
+[2026-01-07 16:02:38.818] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 16:03:33.872] [info]  On Linux, assuming AppImage updater
+[2026-01-07 16:03:33.880] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 16:03:33.881] [info]  Checking for update
+[2026-01-07 16:03:34.348] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 16:04:33.935] [info]  On Linux, assuming AppImage updater
+[2026-01-07 16:04:33.949] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 16:04:33.950] [info]  Checking for update
+[2026-01-07 16:04:34.215] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 16:12:06.424] [info]  On Linux, assuming AppImage updater
+[2026-01-07 16:12:06.437] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 16:12:06.439] [info]  Checking for update
+[2026-01-07 16:12:06.930] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
+[2026-01-07 16:26:55.968] [info]  On Linux, assuming AppImage updater
+[2026-01-07 16:26:55.975] [info]  Unable to detect 'package-type' for autoUpdater
+[2026-01-07 16:26:55.976] [info]  Checking for update
+[2026-01-07 16:26:56.198] [info]  Found version 0.54.1 (url: https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.deb, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.tar.gz, https://caido.download/releases/v0.54.1/caido-desktop-v0.54.1-linux-x86_64.AppImage)
