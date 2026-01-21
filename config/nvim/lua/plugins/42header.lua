@@ -1,16 +1,10 @@
 return {
-  "Diogo-ss/42-header.nvim",
-  cmd = { "Stdheader" },
-  keys = {
-    { "<F1>", "<cmd>Stdheader<CR>", desc = "Insert 42 Header" },
+  {
+    "42Paris/42header",
+    lazy = false,
+    config = function()
+      vim.g.user42 = "jreyes-s"
+      vim.g.mail42 = "jreyes-s@student.42madrid.com"
+    end,
   },
-  opts = {
-    default_map = true, -- Mapea <F1> automáticamente
-    auto_update = true, -- Actualiza "Updated" al guardar
-    user = "jreyes-s", -- 🔴 TU login de 42
-    mail = "jreyes-s@student.42madrid.com", -- 🔴 Email 42 Madrid
-  },
-  config = function(_, opts)
-    require("42header").setup(opts)
-  end,
 }
